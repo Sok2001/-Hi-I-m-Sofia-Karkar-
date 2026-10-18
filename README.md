@@ -1,4 +1,5 @@
-:::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,;::;;;::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+```text
+(Muab koj li ntawv ASCII uas koj :::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,;::;;;::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,;;;:;;::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,;;:;;:::;;,,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :::;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;,,,;;;;;;;;;;,;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;;::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -264,8 +265,20 @@ c::::::::cc:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::ccccccccccccccccccccccccccccccc::::::::;;,,;;:::::::::;;;;;;;;;:::;;;;;,,;cccccllcclododdc:::ccccc:cc:c;..';:cc:;;:;;;;:ccclllcccccloodddooooooolllllllloddddodddolcldxxdddooodxkxddxxdlloooddddddddddddxkxdd
 :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::cccc:::ccc:::::ccccccccccccccccccc:::::::;;,,,,;;::::::::;;;;;::::::;;;;;;,,;:cccccllcclllodoc::cccccc::c;,...,;:ccc::::::ccllllllcccclooodddddolllolllllooodddddoodoolllldxxxdoolldxxxxkkxoooooooddoooooooodxxdd
 ::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::ccccccccccccc::::ccccccccccccc:::::::::::;;,,,,;::::c::::;;;;;:::::::;;;;;;,;:ccccccllcccccloolcc:ccclcccc,...;:::c::::::cclllllllclllllooooddddolllollllodddddddxdoolllllodkkxdoddodxddkkxdoooooooooooooooloooooo
-::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::cccccccccccccccccccccccccccccc:::::::::::;;,,;;;:::ccc:::;;;;;:::::::::::;,,;clcccclllc:ll:cllc:::clllllc:'..,cc:::;;:cccllllllolccclolcloddddddollllooodddxddddxxolllloooodxxxxdxddddodkOkxxdooooooooooooollloooo          
+::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::cccccccccccccccccccccccccccccc:::::::::::;;,,;;;:::ccc:::;;;;;:::::::::::;,,;clcccclllc:ll:cllc:::clllllc:'..,cc:::;;:cccllllllolccclolcloddddddollllooodddxddddxxolllloooodxxxxdxddddodkOkxxdooooooooooooollloooo
+tau tsim hauv website tso rau ntawm no)
 ```
+
+# Sofia Karkar
+
+* **OS:** macOS, Linux, Android
+* **Role:** Full-Stack & AI Software Developer
+* **Education:** Information Systems
+* **IDE:** VS Code, PyCharm
+* **Languages:** Python, Dart, TypeScript, JavaScript
+* **AI & Data:** Machine Learning, PyTorch, SQL
+* **Frameworks:** Flutter, React, Next.js, Node.js
+* **Databases:** MySQL, Prisma, Supabase, Firebase
 
 ### 🔗 Contact
 * **Email:** [sofia.karkar@gmail.com](mailto:sofia.karkar@gmail.com)
